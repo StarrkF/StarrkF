@@ -9,7 +9,7 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 * 🌍  I'm based in Türkiye
 * 🖥️  See my portfolio at [teknoptik.com](http://teknoptik.com)
 * ✉️  You can contact me at [faymergen98@gmail.com](mailto:faymergen98@gmail.com)
-* 🚀  I'm currently working on [ODS Consulting Group](http://odsdanismanlik.com/tr/)
+* 🚀  I'm currently working on [Bilgin Pro](https://bilgin.pro/tr)
 * 🧠  I'm learning Vue JS and TALL Stack
 
 ### Skills
