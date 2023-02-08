@@ -10,6 +10,7 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 * 🖥️  See my portfolio at [teknoptik.com](http://teknoptik.com)
 * ✉️  You can contact me at [faymergen98@gmail.com](mailto:faymergen98@gmail.com)
 * 🚀  I'm currently working on [Bilgin Pro](https://bilgin.pro/tr)
+* 🏢  My old Company GitHub account [furkanods](https://github.com/furkanods)
 * 🧠  I'm learning Vue JS and TALL Stack
 
 ### Skills
