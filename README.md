@@ -9,9 +9,10 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 * 🌍  I'm based in Türkiye
 * 🖥️  See my portfolio at [teknoptik.com](http://teknoptik.com)
 * ✉️  You can contact me at [faymergen98@gmail.com](mailto:faymergen98@gmail.com)
+* ️💼  You can check out my [LinkedIn](https://www.linkedin.com/in/muhammed-furkan-aymergen-25646b174/)
 * 🚀  I'm currently working on [Bilgin Pro](https://bilgin.pro/tr)
 * 🏢  My old Company GitHub account [furkanods](https://github.com/furkanods)
-* 🧠  I'm learning Vue JS and TALL Stack
+* 🧠  I'm learning Vue JS
 
 ### Skills
 
@@ -28,7 +29,6 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
