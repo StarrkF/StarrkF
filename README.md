@@ -49,5 +49,5 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 <a href="https://github.com/StarrkF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarrkF&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/musagurgil/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/StarrkF/count.svg?"  />
 </div>
