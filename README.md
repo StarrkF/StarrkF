@@ -25,13 +25,9 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 ### Professional Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
@@ -68,8 +64,6 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 ###
 
 <h1 align="center">Stats</h1>
-
-![snake gif](https://github.com/StarrkF/StarrkF/blob/output/github-contribution-grid-snake.svg)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=StarrkF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
