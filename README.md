@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I believe the knowing algorithm is more important than knowing the syntax and I am always trying to improve my skill to build of algorithm so I can quickly to adept a language or framework that I don't know
 
 * 🌍  I'm based in Ankara/Türkiye
-* 🖥️  See my portfolio at [teknoptik.com](http://teknoptik.com)
+* 🖥️  See my portfolio at [furkanaymergen.dev](http://furkanaymergen.dev) & [teknoptik.com](http://teknoptik.com)
 * ✉️  You can contact me at [faymergen98@gmail.com](mailto:faymergen98@gmail.com)
 * ️💼  You can check out my [LinkedIn](https://www.linkedin.com/in/muhammed-furkan-aymergen-25646b174/)
 * 🚀  I'm currently working on [Bilgin Pro](https://bilgin.pro/tr)
