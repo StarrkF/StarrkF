@@ -11,10 +11,9 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 * 🖥️  See my portfolio at [furkanaymergen.dev](http://furkanaymergen.dev) & [teknoptik.com](http://teknoptik.com)
 * ✉️  You can contact me at [faymergen98@gmail.com](mailto:faymergen98@gmail.com)
 * ️💼  You can check out my [LinkedIn](https://www.linkedin.com/in/muhammed-furkan-aymergen-25646b174/)
-* 🚀  I'm currently working on [Bilgin Pro](https://bilgin.pro/tr)
-* 🏢  My old Company GitHub account [furkanods](https://github.com/furkanods)
-*  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="18" alt="vuejs logo"  />  I'm writing Laravel 
-*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="18" alt="vuejs logo"  />  I'm learning Vue JS
+* 🚀  I'm currently working on [BTK](https://www.btk.gov.tr/)
+*  I am experienced in Laravel and Vue JS.
+*  I'm learning Spring Boot
 ### Socials
 <p align="left"> <a href="https://www.github.com/StarrkF" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-furkan-aymergen-25646b174/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16917642/starrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
