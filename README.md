@@ -8,14 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I believe the knowing algorithm is more important than knowing the syntax and I am always trying to improve my skill to build of algorithm so I can quickly to adept a language or framework that I don't know
 
 * 🌍  I'm based in Ankara/Türkiye
-* 🖥️  See my portfolio at [furkanaymergen.dev](http://furkanaymergen.dev) & [teknoptik.com](http://teknoptik.com)
+* 🖥️  See my portfolio at [furkanaymergen.dev](http://furkanaymergen.dev)
 * ✉️  You can contact me at [faymergen98@gmail.com](mailto:faymergen98@gmail.com)
 * ️💼  You can check out my [LinkedIn](https://www.linkedin.com/in/muhammed-furkan-aymergen-25646b174/)
-* 🚀  I'm currently working on [BTK](https://www.btk.gov.tr/)
-*  I am experienced in Laravel and Vue JS.
-*  I'm learning Spring Boot
+* 🚀  I'm currently working on [BTK - ICT](https://www.btk.gov.tr/)
+* 💻 I am experienced in Spring Boot and Laravel.
+* ⚙️ I am working with Spring Boot and Vaadin now.
 ### Socials
-<p align="left"> <a href="https://www.github.com/StarrkF" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-furkan-aymergen-25646b174/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16917642/starrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/muhammed-furkan-aymergen-25646b174/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16917642/starrk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ###
 
@@ -24,6 +24,8 @@ I believe the knowing algorithm is more important than knowing the syntax and I 
 ### Professional Skills
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
